@@ -1,0 +1,17 @@
+# Secrets - never upload
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data created by the agent
+data/
+output/
+
+# Mac / editors
+.DS_Store
+.vscode/
+.idea/
